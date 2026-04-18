@@ -79,7 +79,7 @@ QSpiders Training Institute
 
 ## 🙌 Author
 
-Your Name
+Saquib Bin Halim
 
 ---
 
